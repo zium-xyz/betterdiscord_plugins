@@ -121,7 +121,7 @@ module.exports = (() => {
 							font-size: 18px;
 							width: var(--channelTabs-tabWidth);
 							position: relative;
-							background: rgba(20, 20, 20, 0.3)
+							background: none
 							border:none;
 							padding:6px;
 							border-radius:5px;
@@ -140,7 +140,7 @@ module.exports = (() => {
 						}
 						.channelTabs-tabContainer {
 							height: 36px;
-							background: rgba(20, 20, 20, 0.3)
+							background: rgba(20, 20, 20, 0.7)
 							z-index: 1;
 						}
 						.channelTabs-tab:not(.channelTabs-selected):hover {
