@@ -42,7 +42,7 @@ module.exports = (() => {
 			version: "1.1.1c",
 			description: "Allows you to open multiple tabs - edited",
 			github: "https://github.com/zium-xyz/betterdiscord_plugins/blob/master/ChannelTabs.plugin.js",
-			github_raw: "https://raw.githubusercontent.com/l0c4lh057/BetterDiscordStuff/master/Plugins/ChannelTabs/ChannelTabs.plugin.js"
+			github_raw: "https://raw.githubusercontent.com/zium-xyz/betterdiscord_plugins/master/ChannelTabs.plugin.js"
 		},
 		changelog: [
 			{
@@ -121,7 +121,7 @@ module.exports = (() => {
 							font-size: 18px;
 							width: var(--channelTabs-tabWidth);
 							position: relative;
-							background: none;
+							background: rgba(20, 20, 20, 0.3)
 							border:none;
 							padding:6px;
 							border-radius:5px;
