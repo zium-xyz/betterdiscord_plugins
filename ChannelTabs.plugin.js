@@ -140,7 +140,7 @@ module.exports = (() => {
 						}
 						.channelTabs-tabContainer {
 							height: 36px;
-							background: var(--background-secondary-alt);
+							background: rgba(20, 20, 20, 0.3)
 							z-index: 1;
 						}
 						.channelTabs-tab:not(.channelTabs-selected):hover {
