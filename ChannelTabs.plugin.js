@@ -1,7 +1,7 @@
 /**
 * @name ChannelTabs
 * @displayName ChannelTabs
-* @source https://github.com/l0c4lh057/BetterDiscordStuff/blob/master/Plugins/ChannelTabs/ChannelTabs.plugin.js
+* @source https://github.com/zium-xyz/betterdiscord_plugins/blob/master/ChannelTabs.plugin.js
 * @patreon https://www.patreon.com/l0c4lh057
 * @authorId 226677096091484160
 * @invite acQjXZD
@@ -36,15 +36,12 @@ module.exports = (() => {
 			name: "ChannelTabs",
 			authors: [
 				{
-					name: "l0c4lh057",
-					discord_id: "226677096091484160",
-					github_username: "l0c4lh057",
-					twitter_username: "l0c4lh057"
+					name: "l0c4lh057 & zium",
 				}
 			],
 			version: "1.1.1c",
 			description: "Allows you to open multiple tabs - edited",
-			github: "https://github.com/l0c4lh057/BetterDiscordStuff/blob/master/Plugins/ChannelTabs/",
+			github: "https://github.com/zium-xyz/betterdiscord_plugins/blob/master/ChannelTabs.plugin.js",
 			github_raw: "https://raw.githubusercontent.com/l0c4lh057/BetterDiscordStuff/master/Plugins/ChannelTabs/ChannelTabs.plugin.js"
 		},
 		changelog: [
