@@ -39,7 +39,7 @@ module.exports = (() => {
 					name: "l0c4lh057 & zium",
 				}
 			],
-			version: "1.1.1c",
+			version: "1.1.1.0c",
 			description: "Allows you to open multiple tabs - edited",
 			github: "https://github.com/zium-xyz/betterdiscord_plugins/blob/master/ChannelTabs.plugin.js",
 			github_raw: "https://raw.githubusercontent.com/zium-xyz/betterdiscord_plugins/master/ChannelTabs.plugin.js"
