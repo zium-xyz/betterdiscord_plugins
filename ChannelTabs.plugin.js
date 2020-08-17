@@ -1,10 +1,9 @@
 /**
 * @name ChannelTabs
-* @displayName ChannelTabs
+* @displayName ChannelTabsCommunity
 * @source https://github.com/zium-xyz/betterdiscord_plugins/blob/master/ChannelTabs.plugin.js
 * @patreon https://www.patreon.com/l0c4lh057
-* @authorId 226677096091484160
-* @invite acQjXZD
+* @authorId 351102075662368769
 */
 /*@cc_on
 @if (@_jscript)
