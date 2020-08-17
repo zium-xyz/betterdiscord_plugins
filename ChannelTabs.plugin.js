@@ -65,7 +65,8 @@ module.exports = (() => {
         title: "Info",
         type: "progress",
         items: [
-          "Jest to wersja przerobiona! Oficjalna wersja została stworzona przez l0c4lh057"
+          "Jest to wersja przerobiona! Oficjalna wersja została stworzona przez l0c4lh057",
+	  "Naprawiono kolory wyświetlania się kart: *Zmiana z 'var(--background-secondary-alt)' na 'var(--backgroundDark)'"
         ]
       }
 		]
@@ -140,7 +141,7 @@ module.exports = (() => {
 						}
 						.channelTabs-tabContainer {
 							height: 36px;
-							background: rgba(20, 20, 20, 0.7)
+							background: var(--backgroundDark);
 							z-index: 1;
 						}
 						.channelTabs-tab:not(.channelTabs-selected):hover {
