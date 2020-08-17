@@ -295,7 +295,7 @@ module.exports = (() => {
 											this.tabs.push({
 											url: "/channels/@me",
 											name: "Friends",
-											selected: false
+											selected: true
 										});
 										this.rerenderAppView();
 									}
